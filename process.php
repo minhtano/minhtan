@@ -2,8 +2,8 @@
   $name = $_POST["name"];
   $email = $_POST["email"];
   $message = $_POST["message"];
-  $EmailTo = "thanhphungmedia@gmail.com"; // change with your email
-  $Subject = "Profiles - Trần Thanh Phụng";
+  $EmailTo = "chinhle335577@gmail.com"; // change with your email
+  $Subject = "Profiles - Lê Đức Chính";
   // prepare email body text
   $Body .= "Name: ";
   $Body .= $name;
